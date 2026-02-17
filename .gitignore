@@ -1,0 +1,62 @@
+----------------------
+
+1. Web & JS Basics
+
+----------------------
+
+node_modules/
+.npm
+dist/
+build/
+.env
+.env.local
+
+----------------------
+
+2. Python & VS Code (For automation scripts)
+
+----------------------
+
+pycache/
+*.pyc
+.vscode/
+.venv/
+*.log
+
+----------------------
+
+3. Operating System Junk
+
+----------------------
+
+Mac
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Windows
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+----------------------
+
+4. Data Backups
+
+----------------------
+
+Ignore actual inventory data files if you save them in the repo folder locally
+
+*.json
+!example_inventory.json
+
+----------------------
+
+5. Security & Local Settings
+
+----------------------
+
+.env.*
+!.env.example
