@@ -26,6 +26,12 @@ This is a **Standalone HTML** application. There is nothing to install on your c
 
 If you have a large collection of filament, you can use a Google Sheet to bulk-load the app:
 
+**Option 1: The Easy Way (Copy Template)**
+
+1.  **Shared Template:** I have created and shared a Google Sheet template that is ready for you to copy and populate. See **Google_Sheets_Setup_Guide.md** for the link and details.
+
+**Option 2: The "From Scratch" Way**
+
 1.  **Template:** Create a Google Sheet with a tab named **"Inventory"** and columns for Brand, Type, Color, Hex, Full Rolls, Partials, Price, Spool Weight, and Notes.
 2.  **Script:** Install the provided `Code.gs` script into your sheet via **Extensions > Apps Script**.
 3.  **Export:** Use the custom **Filament Tracker** menu in your sheet to export your data to JSON.
