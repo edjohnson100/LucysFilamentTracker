@@ -118,6 +118,9 @@ For the fellow coders and makers out there, here is how this was built:
 
 *Happy Making!* *— EdJ*
 
+## **Large Screenshot**
+![Large Screenshot](resources/large_screenshot.png)
+
 ## **Appendix: Changelog**
 
 ### **[v1.6] — 2026-02-22**
