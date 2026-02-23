@@ -1,0 +1,680 @@
+[
+  {
+    "id": "49535593-4b3c-47de-802f-e28887384370",
+    "brand": "Bambu Lab",
+    "type": "PETG HF",
+    "colorName": "Black",
+    "hexColor": "#000000",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "b1970a55-eaa0-4955-be60-489686c6fa03",
+        "weight": 700,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy, Order refills if available",
+    "orderedRolls": 0
+  },
+  {
+    "id": "cf4b0abf-61ca-4e0a-8234-73d7cd1279f5",
+    "brand": "Bambu Lab",
+    "type": "PETG HF",
+    "colorName": "Lake Blue",
+    "hexColor": "#1F79E5",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy, Order refills if available",
+    "orderedRolls": 0
+  },
+  {
+    "id": "d24b7da6-d643-43b0-a95c-c0642dcd012e",
+    "brand": "Bambu Lab",
+    "type": "PETG HF",
+    "colorName": "Red",
+    "hexColor": "#EB3A3A",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "1765b006-af0c-4a7d-b9ab-9b9032fee139",
+        "weight": 50,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy, Order refills if available",
+    "orderedRolls": 0
+  },
+  {
+    "id": "33a3e27d-f8d2-4f14-8845-bfa800e1a281",
+    "brand": "Bambu Lab",
+    "type": "PETG HF",
+    "colorName": "White",
+    "hexColor": "#FFFFFF",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "39cc88fe-9170-4113-b7b1-8c9b3556cefd",
+        "weight": 700,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Order refills if available",
+    "orderedRolls": 0
+  },
+  {
+    "id": "b09588bc-314f-4781-bd92-ac282d5bf965",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Bambu Green",
+    "hexColor": "#00AE42",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "61c1be58-0002-4c3e-b5a6-3b08d8fd523e",
+        "weight": 400,
+        "note": ""
+      },
+      {
+        "id": "536b87eb-c8a2-47b2-a1db-94a3309beb7e",
+        "weight": 500,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 0
+  },
+  {
+    "id": "5d4e42db-dcd5-43e4-a8f9-b074c364d991",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Beige",
+    "hexColor": "#F7E6DE",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "5cd98a3f-abd0-4650-934e-be660a9684f3",
+        "weight": 200,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "3606598c-3fd1-40a1-a013-63d625e1ac29",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Black",
+    "hexColor": "#000000",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "903882da-092c-4c2a-b0f8-da4389e9de82",
+        "weight": 250,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 0
+  },
+  {
+    "id": "df3466ae-6d82-4f78-afa7-9024af2efc22",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Blue",
+    "hexColor": "#0A2989",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "37f92012-3e91-4915-b3f1-23de0065e115",
+        "weight": 500,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 1
+  },
+  {
+    "id": "c461219d-21f0-4a51-aebc-2437a1906191",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Cyan",
+    "hexColor": "#0086D6",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "ba12bcb9-7cb8-483a-819a-bcdaa956a90d",
+        "weight": 600,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 1
+  },
+  {
+    "id": "29dd84af-f9b8-4554-9057-487ac66bfe88",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Gold",
+    "hexColor": "#E4BD68",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "07cad156-fb66-4dbe-9d00-b541829dcb38",
+        "weight": 750,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "47706106-54a9-4d91-a13f-4ae1fd02d9b8",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Jade White",
+    "hexColor": "#FFFFFF",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "5a485dce-edfe-4b8e-83ca-7287212d622b",
+        "weight": 500,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 0
+  },
+  {
+    "id": "16e1f76e-af21-4e8f-b193-4b6aaeac1ba2",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Magenta",
+    "hexColor": "#EC008C",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "d6646e39-38c1-4645-b3b3-2b7d8c7d0bfb",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Mistletoe Green",
+    "hexColor": "#00AE42",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "41aef6a1-b4a2-4d76-973f-8bee8d59827f",
+        "weight": 700,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "919f00d4-897d-4d4c-bc13-7fb2b22b27aa",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Orange",
+    "hexColor": "#FF6A13",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "6677d6fa-4fda-44d2-b031-1dc8e4c80a10",
+        "weight": 400,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 1
+  },
+  {
+    "id": "c6d53898-d4dc-4642-850d-e1450cecb475",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Pink",
+    "hexColor": "#F55A74",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "85c04540-2efb-4f02-9179-5ae3b0f598b4",
+        "weight": 150,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 1
+  },
+  {
+    "id": "cfbc06d8-c80f-4bd0-bddb-b4528a613293",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Purple",
+    "hexColor": "#5E43B7",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "440ae121-2f7b-42b3-bc78-3c5cd5372ea1",
+        "weight": 100,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "0e571fef-b554-40f4-b980-7a68c2e87dc7",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Red",
+    "hexColor": "#C12E1F",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "d745221e-c8c3-402c-961e-8d5550c0d2cf",
+        "weight": 750,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 0
+  },
+  {
+    "id": "b98b4c9e-37e9-401e-aff0-81163b7aa58e",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Silver",
+    "hexColor": "#A6A9AA",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "5c193dc5-e1ac-4128-b10b-9c9d55586d2e",
+    "brand": "Bambu Lab",
+    "type": "PLA Basic",
+    "colorName": "Yellow",
+    "hexColor": "#F4EE2A",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "5c84e5a4-73e8-47d6-83cd-7ee8ece6c4e2",
+        "weight": 480,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "Etsy",
+    "orderedRolls": 1
+  },
+  {
+    "id": "4bdfe415-03a8-450f-9d03-7802d894bea1",
+    "brand": "Bambu Lab",
+    "type": "PLA Matte",
+    "colorName": "Cyan",
+    "hexColor": "#0078BF",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "e2aaa762-5c57-4cb5-8be0-dda5a62549a0",
+    "brand": "Bambu Lab",
+    "type": "PLA Matte",
+    "colorName": "Dark Red",
+    "hexColor": "#BB3D43",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "72944bcb-1ec1-49d8-98b7-a48c685e6c36",
+    "brand": "Bambu Lab",
+    "type": "PLA Matte",
+    "colorName": "Sky Blue",
+    "hexColor": "#56B7E6",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "7f55a000-8d7f-4669-ab18-d5fb9e598171",
+        "weight": 800,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "e21c6f1b-ef2b-45cc-ba12-f10060d08584",
+    "brand": "Bambu Lab",
+    "type": "PLA-CF",
+    "colorName": "Black",
+    "hexColor": "#000000",
+    "fullRolls": 2,
+    "partials": [
+      {
+        "id": "60af273a-e04e-42d3-9f87-58d6d512133b",
+        "weight": 250,
+        "note": ""
+      }
+    ],
+    "price": 25,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "1df5bdc4-3001-4734-bf14-e1d1ca6a20bf",
+    "brand": "Bambu Lab",
+    "type": "Support W (for PLA)",
+    "colorName": "White",
+    "hexColor": "#FFFFFF",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "8ac5e6dd-d818-407e-98d8-0afaef984049",
+        "weight": 250,
+        "note": ""
+      },
+      {
+        "id": "96db0259-8495-429b-bf9f-4bc60baddc5f",
+        "weight": 200,
+        "note": ""
+      }
+    ],
+    "price": 17,
+    "spoolWeight": 0,
+    "notes": "250g spools",
+    "orderedRolls": 0
+  },
+  {
+    "id": "6ab3fbbf-2d49-4122-9363-f34e4bc6b12a",
+    "brand": "Polymaker",
+    "type": "Polylite PETG",
+    "colorName": "Electric Blue",
+    "hexColor": "#6EC9D8",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "2044a0b0-aa6d-4d37-847a-682bdb1e895b",
+        "weight": 900,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "2fc14c3f-579c-407e-9538-43430649c76b",
+    "brand": "Polymaker",
+    "type": "Polylite PETG",
+    "colorName": "Magenta",
+    "hexColor": "#C23881",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "Etsy",
+    "orderedRolls": 0
+  },
+  {
+    "id": "f77ee0fd-7e9d-49cf-94fe-3f69205d3cf8",
+    "brand": "Polymaker",
+    "type": "Polylite PETG",
+    "colorName": "Orange",
+    "hexColor": "#FF6A15",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "35fad6ca-c439-40e0-80f7-d8999eab2c2e",
+    "brand": "Polymaker",
+    "type": "Polylite PETG",
+    "colorName": "Pink",
+    "hexColor": "#ED92B0",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "12a03aec-5782-49ba-aa5d-32a76bd03670",
+    "brand": "Polymaker",
+    "type": "Polylite PETG",
+    "colorName": "Purple",
+    "hexColor": "#5E43B9",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "a3a06528-76e7-411d-a063-26e6c48e4819",
+        "weight": 700,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "Etsy",
+    "orderedRolls": 0
+  },
+  {
+    "id": "008dc2d4-61a6-4ecd-9d54-a6839f239574",
+    "brand": "Polymaker",
+    "type": "Polylite PETG",
+    "colorName": "Red",
+    "hexColor": "#D03039",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "5b8d9707-43db-4022-930a-456904888f33",
+    "brand": "Printed Solid",
+    "type": "Jessie PLA",
+    "colorName": "Blue Ice",
+    "hexColor": "#034C73",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "a729e627-cc18-449b-a8cc-327cd73d3272",
+        "weight": 900,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "13ec22f9-db14-4874-b10d-5e7a296b15fe",
+    "brand": "Printed Solid",
+    "type": "Jessie PLA",
+    "colorName": "Vanilla Bean",
+    "hexColor": "#CCCCCC",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "c47f9673-48c8-4d32-9c1c-7a13dbc2b563",
+        "weight": 40,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "4e1aaeb9-6eef-42dc-b178-36e06ae75bd3",
+    "brand": "Prusament",
+    "type": "PETG",
+    "colorName": "Galaxy Black",
+    "hexColor": "#494546",
+    "fullRolls": 1,
+    "partials": [
+      {
+        "id": "5f0c07ac-315a-43df-a5be-6d81b7ff47bb",
+        "weight": 900,
+        "note": ""
+      },
+      {
+        "id": "ce3878a0-687a-4d88-a17c-b2b58f49c836",
+        "weight": 900,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "4a890072-981f-4bc9-b690-6c0057e0e2aa",
+    "brand": "Prusament",
+    "type": "PETG",
+    "colorName": "Terra Cotta Light",
+    "hexColor": "#B87F6A",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "edd8305e-3144-425f-b199-3cddf9c2c04a",
+    "brand": "Prusament",
+    "type": "PLA",
+    "colorName": "Galaxy Black",
+    "hexColor": "#3d3e3c",
+    "fullRolls": 3,
+    "partials": [],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "832cb66f-d30e-4108-919a-a3d2c219054c",
+    "brand": "Prusament",
+    "type": "PLA",
+    "colorName": "Galaxy Purple",
+    "hexColor": "#453a71",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "0f6635f9-4727-4745-8473-fe20c8c860bb",
+        "weight": 800,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "edbaee44-583b-484f-8ff6-a124ab4b38fc",
+    "brand": "Prusament",
+    "type": "PLA",
+    "colorName": "Galaxy Silver",
+    "hexColor": "#999A9F",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 26.99,
+    "spoolWeight": 250,
+    "notes": "Price includes shipping",
+    "orderedRolls": 0
+  },
+  {
+    "id": "1674c5a7-a492-49b9-be74-76e682e7ae93",
+    "brand": "Prusament",
+    "type": "PLA",
+    "colorName": "Mystic Brown",
+    "hexColor": "#482E31",
+    "fullRolls": 0,
+    "partials": [
+      {
+        "id": "e5df5a16-7bfc-411b-a29b-0e85560f0509",
+        "weight": 500,
+        "note": ""
+      }
+    ],
+    "price": 20,
+    "spoolWeight": 0,
+    "notes": "",
+    "orderedRolls": 0
+  },
+  {
+    "id": "5113fd8f-aaa8-4efb-a427-6642cd6ebced",
+    "brand": "Sunlu",
+    "type": "TPU",
+    "colorName": "Black",
+    "hexColor": "#000000",
+    "fullRolls": 1,
+    "partials": [],
+    "price": 25,
+    "spoolWeight": 230,
+    "notes": "",
+    "orderedRolls": 0
+  }
+]

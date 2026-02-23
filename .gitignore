@@ -50,7 +50,7 @@ Desktop.ini
 Ignore actual inventory data files if you save them in the repo folder locally
 
 *.json
-!example_inventory.json
+!sample_inventory.json
 
 ----------------------
 

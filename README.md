@@ -34,7 +34,7 @@ This is a **Standalone HTML** application. There is nothing to install on your c
 2. **Run:** Double-click the file to open it in your favorite web browser (Chrome, Safari, or Edge).  
 3. **Persistence:** Your data is temporarily saved to your browser's local cache. However, it is **highly recommended** to use the "Save JSON" button to create a hard backup on your computer whenever the "Unsaved Changes" warning appears.
 
-*Pro-Tip: You can customize the app icon in the header by opening the HTML file in a text editor and pasting a Base64 image string into the `APP_ICON` variable near the top\!*
+*Pro-Tip: You can customize the app icon in the header by opening the HTML file in a text editor and pasting a Base64 image string into the `APP_ICON` variable near the top!*
 
 ## **Google Sheets Setup Guide (Optional)**
 
@@ -46,7 +46,7 @@ If you are using Ed's shared template:
 
 1. Open the shared Google Sheet. Link:  
    [Lucy's Filament Tracker JSON Database](https://docs.google.com/spreadsheets/d/14-P-dQ70ru4acR4fKjPGLLQhgiZi4NBXobUuJj-0JMs/edit?usp=sharing)  
-2. Go to **File \> Make a copy**.
+2. Go to **File > Make a copy**.
 3. **Authorization:** The first time you run the script (under the "Filament Tracker" menu), Google will warn you that the app isn't verified.  
    * Click **Advanced**.  
    * Click **Go to Filament Tracker (unsafe)**.  
@@ -56,9 +56,9 @@ If you are using Ed's shared template:
 
 If you want to build your own sheet or use an existing one:
 
-**1\. Tab Name** Rename your data tab to exactly **Inventory** (case-sensitive). The export script specifically looks for this name and will ignore other tabs like "Notes" or "Calculations."
+**1. Tab Name** Rename your data tab to exactly **Inventory** (case-sensitive). The export script specifically looks for this name and will ignore other tabs like "Notes" or "Calculations."
 
-**2\. Spreadsheet Structure** Set up the first row (Header Row) with these exact columns in this order:
+**2. Spreadsheet Structure** Set up the first row (Header Row) with these exact **12** columns in this order:
 
 | Column | Header Name | Format / Example |
 | ----- | ----- | ----- |
@@ -68,16 +68,16 @@ If you want to build your own sheet or use an existing one:
 | **D** | Color Name | Text (e.g., `Bambu Green`) |
 | **E** | Hex Color | Hex Code (e.g., `#00AE42`) |
 | **F** | Full Rolls | Number (e.g., `2`) |
-| **G** | Partial Weights | Comma separated numbers (e.g., `450, 120`) *Note: leave a space after each comma (forces text formatting) so you don’t create a partial spool with 450120 g. (Ask me how I know\!)* |
+| **G** | Partial Weights | Comma separated numbers (e.g., `450, 120`) *Note: leave a space after each comma (forces text formatting) so you don’t create a partial spool with 450120 g. (Ask me how I know!)* |
 | **H** | Price | Number (e.g., `24.99`) |
 | **I** | Spool Weight | Number (e.g., `250`) |
 | **J** | Notes | Text (e.g., `Cardboard spool, needs adapter`) |
-| **K** | Partial Notes | Comma separated text (e.g., `Scrap, “Brittle, Dry First”`) \- Order matches weights in Col G |
+| **K** | Partial Notes | Comma separated text (e.g., `Scrap, “Brittle, Dry First”`) - Order matches weights in Col G |
 | **L** | Ordered Rolls | Number (e.g., `2`) |
 
-**3\. Install the "JSON Helper" Script** This script converts your rows into the JSON format the app expects, and vice-versa.
+**3. Install the "JSON Helper" Script** This script converts your rows into the JSON format the app expects, and vice-versa.
 
-1. In your Google Sheet, go to **Extensions \> Apps Script**.  
+1. In your Google Sheet, go to **Extensions > Apps Script**.  
 2. Delete any default code (`function myFunction() {...}`) and paste the code from the `Code.gs` file in this repository.  
 3. Click the **Save** icon (floppy disk).  
 4. Refresh your Google Sheet tab.  
@@ -93,9 +93,9 @@ If you want to build your own sheet or use an existing one:
 To safely back up the changes you've made in the browser back into your master spreadsheet:
 
 1. In the web app, click **Save JSON** to download your updated inventory to your computer.  
-2. In your Google Sheet, click **Filament Tracker \> Import JSON File**.  
+2. In your Google Sheet, click **Filament Tracker > Import JSON File**.  
 3. Select your downloaded `.json` file.  
-4. The script will automatically overwrite the "Inventory" tab with your updated data and instantly sort it cleanly by Brand, Type, and Color\!
+4. The script will automatically overwrite the "Inventory" tab with your updated data and instantly sort it cleanly by Brand, Type, and Color!
 
 ## **Tech Stack**
 
@@ -104,23 +104,23 @@ For the fellow coders and makers out there, here is how this was built:
 * **Language:** React 18 (via CDN)  
 * **Styling:** Tailwind CSS  
 * **Icons:** Custom Internal SVG Library (Embedded for standalone stability)  
-* **Data Storage:** Browser `localStorage` API \+ JSON File Export/Import  
+* **Data Storage:** Browser `localStorage` API + JSON File Export/Import  
 * **Format:** 100% self-contained in a single `.html` file.
 
 ## **Acknowledgements & Credits**
 
 * **Developer:** Ed Johnson ([Making With An EdJ](https://www.youtube.com/@makingwithanedj))  
 * **AI Assistance:** Developed with coding assistance from Google's Gemini model.  
-* **Lucy (The Cavachon Puppy):** ***Chief Wellness Officer & Director of Mandatory Breaks*** \* Thank you for ensuring I maintained healthy circulation by interrupting my deep coding sessions with urgent requests for play.  
+* **Lucy (The Cavachon Puppy):** ***Chief Wellness Officer & Director of Mandatory Breaks*** * Thank you for ensuring I maintained healthy circulation by interrupting my deep coding sessions with urgent requests for play.  
 * **License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ---
 
-*Happy Making\!* *— EdJ*
+*Happy Making!* *— EdJ*
 
 ## **Appendix: Changelog**
 
-### **\[v1.6\] — 2026-02-22**
+### **[v1.6] — 2026-02-22**
 
 **Added**
 
@@ -135,7 +135,7 @@ For the fellow coders and makers out there, here is how this was built:
 * **Printable Reports:** The Filament Inventory Report now explicitly flags incoming orders next to the Full Rolls count to prevent accidental double-ordering.  
 * **Google Sheets Sync:** Expanded the Apps Script `Code.gs` integration to support 12 columns, safely importing and exporting the new `orderedRolls` metric.
 
-### **\[v1.5\] — 2026-02-22**
+### **[v1.5] — 2026-02-22**
 
 **Added**
 
@@ -152,7 +152,7 @@ For the fellow coders and makers out there, here is how this was built:
 * **Code Readability:** Refactored the internal application logic to an expanded, human-readable format to facilitate easier user-side customization.  
 * **Report Layout:** Optimized the printable table with better spacing and bold weight for "Full Rolls" to improve scannability on physical printouts.
 
-### **\[v1.4\] — 2026-02-21**
+### **[v1.4] — 2026-02-21**
 
 **Added**
 
@@ -160,7 +160,7 @@ For the fellow coders and makers out there, here is how this was built:
 * **Spool Tare Tracking:** Added `spoolWeight` field to allow users to subtract the empty spool weight from the total scale reading.  
 * **Partial Notes:** Added a dedicated note field for individual open spools (e.g., "Dry before use").
 
-### **\[v1.3\] — 2026-02-19**
+### **[v1.3] — 2026-02-19**
 
 **Improved**
 
@@ -168,21 +168,21 @@ For the fellow coders and makers out there, here is how this was built:
 * **"Dirty" State Detection:** Added the "Unsaved Changes" warning to alert users when their local data differs from their last exported JSON.  
 * **Open Roll Logic:** Created the "Open Roll" button to automate the conversion of 1 Full Roll into a 1000g partial entry.
 
-### **\[v1.2\] — 2026-02-18**
+### **[v1.2] — 2026-02-18**
 
 **Improved**
 
 * **JSON Portability:** Developed the Import/Export logic to allow the app to function as a standalone utility independent of the Google Sheets master.  
 * **Mobile-Responsive Grid:** Refined the Tailwind CSS grid to transition from 4 columns on desktop to a single-column list on mobile devices.
 
-### **\[v1.1\] — 2026-02-17**
+### **[v1.1] — 2026-02-17**
 
 **Changed**
 
 * **Pivoted to Standalone HTML:** Moved the UI from a Google Apps Script web-dialog into a single, portable `.html` file that can be run locally from any computer.  
 * **UI Refresh:** Switched from basic HTML tables to the "Card View" layout with hex-color borders for better visual identification.
 
-### **\[v1.0\] — 2026-02-16**
+### **[v1.0] — 2026-02-16**
 
 **Initial Release**
 
