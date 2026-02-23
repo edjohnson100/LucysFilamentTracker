@@ -3,7 +3,7 @@
 
 ![Filament Tracker Preview](resources/preview.png)
 
-### **Version: 1.5**
+### **Version: 1.6**
 
 ### **Last Updated: 2026-02-22**
 
@@ -17,11 +17,12 @@ Tracking filament shouldn't take longer than the print itself. I built this tool
 
 ### **Key Features**
 
-* **Fast Entry:** Seed your inventory from a Google Sheet (70+ rolls in \< 30 mins).  
-* **Smart Filtering:** Cross-filter by Brand, Material Type (PLA, PETG, etc.), and color search.  
-* **Card Sorting Options:** Organize your dashboard with new sorting modes: **\[Brand, Type, Color\]**, **\[Color, Type, Brand\]**, or the **\[Order View\]** which highlights low-inventory items.  
-* **Consumption Tracking:** "Open" full rolls to automatically track partial weights and spool tare.  
-* **Filament Inventory Report:** Generate a clean, printer-friendly "Shopping List" or inventory audit. This report includes a dedicated **Filtered Value** calculation, showing you the exact dollar value of the items currently visible on your screen.  
+* **Fast Entry:** Seed your inventory from a Google Sheet (70+ rolls in < 30 mins).  
+* **Smart Filtering & Deep Search:** Cross-filter by Brand and Material Type (PLA, PETG, etc.), and use the search bar to dynamically scan through Color Names, Main Notes, and individual Partial Roll Notes.
+* **Card Sorting Options:** Organize your dashboard with sorting modes: **[Brand, Type, Color]**, **[Color, Type, Brand]**, or the **[Order View]** which automatically pins incoming orders to the top and highlights low-inventory items.  
+* **Consumption Tracking:** "Open" full rolls to automatically track partial weights and spool tare.
+* **Order Tracking:** Keep tabs on filament currently in the mail. Instantly "Receive" ordered rolls with a single click, or quick-add to your order list right from the dashboard.
+* **Filament Inventory Report:** Generate a clean, printer-friendly "Shopping List" or inventory audit. This report includes a dedicated **Filtered Value** calculation and explicitly flags incoming orders so you don't accidentally double-buy.
 * **Data Safety:** Visual "Unsaved Changes" warnings alert you when you need to back up your data.  
 * **Total Inventory Value:** Automatically calculates the dollar value of your entire "plastic bank."
 
@@ -43,8 +44,9 @@ If you have a large collection of filament, you can use a Google Sheet to bulk-l
 
 If you are using Ed's shared template:
 
-1. Open the shared Google Sheet.  
-2. Go to **File \> Make a copy**.  
+1. Open the shared Google Sheet. Link:  
+   [Lucy's Filament Tracker JSON Database](https://docs.google.com/spreadsheets/d/14-P-dQ70ru4acR4fKjPGLLQhgiZi4NBXobUuJj-0JMs/edit?usp=sharing)  
+2. Go to **File \> Make a copy**.
 3. **Authorization:** The first time you run the script (under the "Filament Tracker" menu), Google will warn you that the app isn't verified.  
    * Click **Advanced**.  
    * Click **Go to Filament Tracker (unsafe)**.  
@@ -71,6 +73,7 @@ If you want to build your own sheet or use an existing one:
 | **I** | Spool Weight | Number (e.g., `250`) |
 | **J** | Notes | Text (e.g., `Cardboard spool, needs adapter`) |
 | **K** | Partial Notes | Comma separated text (e.g., `Scrap, “Brittle, Dry First”`) \- Order matches weights in Col G |
+| **L** | Ordered Rolls | Number (e.g., `2`) |
 
 **3\. Install the "JSON Helper" Script** This script converts your rows into the JSON format the app expects, and vice-versa.
 
