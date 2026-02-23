@@ -30,7 +30,7 @@ Tracking filament shouldn't take longer than the print itself. I built this tool
 
 This is a **Standalone HTML** application. There is nothing to install on your computer.
 
-1. **Download:** Download the `lucys_ilament_tracker.html` file from this repository.  
+1. **Download:** Download the `lucys_filament_tracker.html` file from this repository.  
 2. **Run:** Double-click the file to open it in your favorite web browser (Chrome, Safari, or Edge).  
 3. **Persistence:** Your data is temporarily saved to your browser's local cache. However, it is **highly recommended** to use the "Save JSON" button to create a hard backup on your computer whenever the "Unsaved Changes" warning appears.
 
