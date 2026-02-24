@@ -8,7 +8,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "b1970a55-eaa0-4955-be60-489686c6fa03",
+        "id": "06c28acf-b647-497b-8151-0bc64e2dadd6",
         "weight": 700,
         "note": ""
       }
@@ -16,7 +16,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy, Order refills if available",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "cf4b0abf-61ca-4e0a-8234-73d7cd1279f5",
@@ -29,7 +30,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy, Order refills if available",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "d24b7da6-d643-43b0-a95c-c0642dcd012e",
@@ -40,7 +42,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "1765b006-af0c-4a7d-b9ab-9b9032fee139",
+        "id": "ba8a5e4c-0790-4229-97d1-26373db3e5cc",
         "weight": 50,
         "note": ""
       }
@@ -48,7 +50,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy, Order refills if available",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "33a3e27d-f8d2-4f14-8845-bfa800e1a281",
@@ -59,7 +62,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "39cc88fe-9170-4113-b7b1-8c9b3556cefd",
+        "id": "ccce9c63-fca0-4469-8a51-85bbbe188dc4",
         "weight": 700,
         "note": ""
       }
@@ -67,7 +70,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Order refills if available",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "b09588bc-314f-4781-bd92-ac282d5bf965",
@@ -78,12 +82,12 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "61c1be58-0002-4c3e-b5a6-3b08d8fd523e",
+        "id": "a78fbc9e-7c64-414f-b4f7-904903ab9824",
         "weight": 400,
         "note": ""
       },
       {
-        "id": "536b87eb-c8a2-47b2-a1db-94a3309beb7e",
+        "id": "d28d84fe-a1b7-47f5-a5fd-0ef4adf4cdf0",
         "weight": 500,
         "note": ""
       }
@@ -91,7 +95,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "5d4e42db-dcd5-43e4-a8f9-b074c364d991",
@@ -102,7 +107,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "5cd98a3f-abd0-4650-934e-be660a9684f3",
+        "id": "4d1cc8f7-90ff-464c-b947-7a6d86ba3836",
         "weight": 200,
         "note": ""
       }
@@ -110,7 +115,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "3606598c-3fd1-40a1-a013-63d625e1ac29",
@@ -121,7 +127,7 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "903882da-092c-4c2a-b0f8-da4389e9de82",
+        "id": "84290324-ff01-490f-84ae-b4cb9c43f9eb",
         "weight": 250,
         "note": ""
       }
@@ -129,7 +135,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "df3466ae-6d82-4f78-afa7-9024af2efc22",
@@ -140,7 +147,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "37f92012-3e91-4915-b3f1-23de0065e115",
+        "id": "f679a011-dc01-48e9-ba31-c9c1f40b1d7d",
         "weight": 500,
         "note": ""
       }
@@ -148,7 +155,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 1
+    "orderedRolls": 1,
+    "location": "Top Shelf"
   },
   {
     "id": "c461219d-21f0-4a51-aebc-2437a1906191",
@@ -159,7 +167,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "ba12bcb9-7cb8-483a-819a-bcdaa956a90d",
+        "id": "8eb43cce-21e0-476d-bfeb-4ff7624b3b65",
         "weight": 600,
         "note": ""
       }
@@ -167,7 +175,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 1
+    "orderedRolls": 1,
+    "location": "Top Shelf"
   },
   {
     "id": "29dd84af-f9b8-4554-9057-487ac66bfe88",
@@ -178,7 +187,7 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "07cad156-fb66-4dbe-9d00-b541829dcb38",
+        "id": "38dfd264-abac-4eae-b594-35a68e9ed1cf",
         "weight": 750,
         "note": ""
       }
@@ -186,7 +195,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "47706106-54a9-4d91-a13f-4ae1fd02d9b8",
@@ -197,7 +207,7 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "5a485dce-edfe-4b8e-83ca-7287212d622b",
+        "id": "7a51823b-7431-4435-bcca-9826701b38fb",
         "weight": 500,
         "note": ""
       }
@@ -205,7 +215,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "16e1f76e-af21-4e8f-b193-4b6aaeac1ba2",
@@ -218,7 +229,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "d6646e39-38c1-4645-b3b3-2b7d8c7d0bfb",
@@ -229,7 +241,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "41aef6a1-b4a2-4d76-973f-8bee8d59827f",
+        "id": "b7f4f86e-2df6-4c6d-8a3c-e4867b53de89",
         "weight": 700,
         "note": ""
       }
@@ -237,7 +249,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "919f00d4-897d-4d4c-bc13-7fb2b22b27aa",
@@ -248,7 +261,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "6677d6fa-4fda-44d2-b031-1dc8e4c80a10",
+        "id": "a2b47440-32f7-42de-8caf-3a586418032c",
         "weight": 400,
         "note": ""
       }
@@ -256,7 +269,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 1
+    "orderedRolls": 1,
+    "location": "Top Shelf"
   },
   {
     "id": "c6d53898-d4dc-4642-850d-e1450cecb475",
@@ -267,7 +281,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "85c04540-2efb-4f02-9179-5ae3b0f598b4",
+        "id": "a924ec38-ee11-4712-a6ae-ae8c8d8e139e",
         "weight": 150,
         "note": ""
       }
@@ -275,7 +289,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 1
+    "orderedRolls": 1,
+    "location": "Top Shelf"
   },
   {
     "id": "cfbc06d8-c80f-4bd0-bddb-b4528a613293",
@@ -286,7 +301,7 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "440ae121-2f7b-42b3-bc78-3c5cd5372ea1",
+        "id": "6b71a089-d3cb-4e33-a27d-9b52e49b098f",
         "weight": 100,
         "note": ""
       }
@@ -294,7 +309,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "0e571fef-b554-40f4-b980-7a68c2e87dc7",
@@ -305,7 +321,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "d745221e-c8c3-402c-961e-8d5550c0d2cf",
+        "id": "d5560a32-6440-4bd9-a103-5a129cb60b7c",
         "weight": 750,
         "note": ""
       }
@@ -313,7 +329,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "b98b4c9e-37e9-401e-aff0-81163b7aa58e",
@@ -326,7 +343,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Top Shelf"
   },
   {
     "id": "5c193dc5-e1ac-4128-b10b-9c9d55586d2e",
@@ -337,7 +355,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "5c84e5a4-73e8-47d6-83cd-7ee8ece6c4e2",
+        "id": "beeb0649-08c0-427c-991c-16bd3d2f8785",
         "weight": 480,
         "note": ""
       }
@@ -345,7 +363,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "Etsy",
-    "orderedRolls": 1
+    "orderedRolls": 1,
+    "location": "Top Shelf"
   },
   {
     "id": "4bdfe415-03a8-450f-9d03-7802d894bea1",
@@ -358,7 +377,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "e2aaa762-5c57-4cb5-8be0-dda5a62549a0",
@@ -371,7 +391,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "72944bcb-1ec1-49d8-98b7-a48c685e6c36",
@@ -382,7 +403,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "7f55a000-8d7f-4669-ab18-d5fb9e598171",
+        "id": "12fedb29-4b72-49f9-a4ff-b54406022e67",
         "weight": 800,
         "note": ""
       }
@@ -390,7 +411,8 @@
     "price": 17,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "e21c6f1b-ef2b-45cc-ba12-f10060d08584",
@@ -401,7 +423,7 @@
     "fullRolls": 2,
     "partials": [
       {
-        "id": "60af273a-e04e-42d3-9f87-58d6d512133b",
+        "id": "beda4909-48df-4fc9-a451-6b1146f0c6dc",
         "weight": 250,
         "note": ""
       }
@@ -409,7 +431,8 @@
     "price": 25,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "1df5bdc4-3001-4734-bf14-e1d1ca6a20bf",
@@ -420,12 +443,12 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "8ac5e6dd-d818-407e-98d8-0afaef984049",
+        "id": "b79b8439-1c9a-44d8-941f-ef779025b1f3",
         "weight": 250,
         "note": ""
       },
       {
-        "id": "96db0259-8495-429b-bf9f-4bc60baddc5f",
+        "id": "74ad5f0f-a4de-4c73-83b8-153da52a5809",
         "weight": 200,
         "note": ""
       }
@@ -433,7 +456,8 @@
     "price": 17,
     "spoolWeight": 0,
     "notes": "250g spools",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": "Shelf 2"
   },
   {
     "id": "6ab3fbbf-2d49-4122-9363-f34e4bc6b12a",
@@ -444,7 +468,7 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "2044a0b0-aa6d-4d37-847a-682bdb1e895b",
+        "id": "3a38ac12-8459-4689-8101-a1697a12f947",
         "weight": 900,
         "note": ""
       }
@@ -452,7 +476,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "2fc14c3f-579c-407e-9538-43430649c76b",
@@ -465,7 +490,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "Etsy",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "f77ee0fd-7e9d-49cf-94fe-3f69205d3cf8",
@@ -478,7 +504,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "35fad6ca-c439-40e0-80f7-d8999eab2c2e",
@@ -491,7 +518,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "12a03aec-5782-49ba-aa5d-32a76bd03670",
@@ -502,7 +530,7 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "a3a06528-76e7-411d-a063-26e6c48e4819",
+        "id": "7f6cf361-d752-4a7c-ad86-df81f3143eba",
         "weight": 700,
         "note": ""
       }
@@ -510,7 +538,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "Etsy",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "008dc2d4-61a6-4ecd-9d54-a6839f239574",
@@ -523,7 +552,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "5b8d9707-43db-4022-930a-456904888f33",
@@ -534,7 +564,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "a729e627-cc18-449b-a8cc-327cd73d3272",
+        "id": "65f9463d-1442-4816-9480-6879c4147bb8",
         "weight": 900,
         "note": ""
       }
@@ -542,7 +572,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "13ec22f9-db14-4874-b10d-5e7a296b15fe",
@@ -553,7 +584,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "c47f9673-48c8-4d32-9c1c-7a13dbc2b563",
+        "id": "9f91763b-375c-4851-96ed-42707f3c5eae",
         "weight": 40,
         "note": ""
       }
@@ -561,7 +592,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "4e1aaeb9-6eef-42dc-b178-36e06ae75bd3",
@@ -572,12 +604,12 @@
     "fullRolls": 1,
     "partials": [
       {
-        "id": "5f0c07ac-315a-43df-a5be-6d81b7ff47bb",
+        "id": "76d1741b-e56e-410c-95e3-7eab1228007e",
         "weight": 900,
         "note": ""
       },
       {
-        "id": "ce3878a0-687a-4d88-a17c-b2b58f49c836",
+        "id": "52d4b1c4-c369-408e-a924-d8c5b7b80060",
         "weight": 900,
         "note": ""
       }
@@ -585,7 +617,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "4a890072-981f-4bc9-b690-6c0057e0e2aa",
@@ -598,7 +631,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "edd8305e-3144-425f-b199-3cddf9c2c04a",
@@ -611,7 +645,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "832cb66f-d30e-4108-919a-a3d2c219054c",
@@ -622,7 +657,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "0f6635f9-4727-4745-8473-fe20c8c860bb",
+        "id": "009b1cad-3304-4f6f-acd1-6066d228571d",
         "weight": 800,
         "note": ""
       }
@@ -630,7 +665,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "edbaee44-583b-484f-8ff6-a124ab4b38fc",
@@ -643,7 +679,8 @@
     "price": 26.99,
     "spoolWeight": 250,
     "notes": "Price includes shipping",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "1674c5a7-a492-49b9-be74-76e682e7ae93",
@@ -654,7 +691,7 @@
     "fullRolls": 0,
     "partials": [
       {
-        "id": "e5df5a16-7bfc-411b-a29b-0e85560f0509",
+        "id": "4d38aa91-f88e-488e-a772-17a396cc53fd",
         "weight": 500,
         "note": ""
       }
@@ -662,7 +699,8 @@
     "price": 20,
     "spoolWeight": 0,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   },
   {
     "id": "5113fd8f-aaa8-4efb-a427-6642cd6ebced",
@@ -675,6 +713,7 @@
     "price": 25,
     "spoolWeight": 230,
     "notes": "",
-    "orderedRolls": 0
+    "orderedRolls": 0,
+    "location": ""
   }
 ]
