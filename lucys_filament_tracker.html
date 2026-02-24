@@ -6,6 +6,7 @@
     
     <title>Lucy's Filament Tracker</title>
     <!-- Version 1.7, Last Update: 2026-02-23 -->
+
     <script src="https://cdn.tailwindcss.com"></script>
     
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
@@ -667,8 +668,8 @@
                     </main>
 
                     {showPrintModal && (
-                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm" id="printable-content">
-                            <div className="bg-white w-full max-w-4xl h-[90vh] overflow-y-auto rounded-xl shadow-2xl p-8 relative">
+                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm cursor-pointer" id="printable-content" onClick={() => setShowPrintModal(false)}>
+                            <div className="bg-white w-full max-w-4xl h-[90vh] overflow-y-auto rounded-xl shadow-2xl p-8 relative cursor-default" onClick={e => e.stopPropagation()}>
                                 <button 
                                     onClick={() => setShowPrintModal(false)}
                                     className="absolute top-4 right-4 p-2 text-slate-400 hover:text-slate-600 no-print"
@@ -750,8 +751,8 @@
                     )}
 
                     {deleteTarget && (
-                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm no-print">
-                            <div className="bg-white rounded-xl shadow-2xl p-6 w-full max-w-sm">
+                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm no-print cursor-pointer" onClick={() => setDeleteTarget(null)}>
+                            <div className="bg-white rounded-xl shadow-2xl p-6 w-full max-w-sm cursor-default" onClick={e => e.stopPropagation()}>
                                 <div className="flex flex-col items-center text-center">
                                     <div className="h-12 w-12 bg-red-100 rounded-full flex items-center justify-center mb-4 text-red-600"><AlertTriangle size={24} /></div>
                                     <h3 className="text-lg font-bold text-slate-900 mb-2">Delete Filament?</h3>
@@ -766,8 +767,8 @@
                     )}
 
                     {showClearConfirm && (
-                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm no-print">
-                            <div className="bg-white rounded-xl shadow-2xl p-6 w-full max-w-sm">
+                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm no-print cursor-pointer" onClick={() => setShowClearConfirm(false)}>
+                            <div className="bg-white rounded-xl shadow-2xl p-6 w-full max-w-sm cursor-default" onClick={e => e.stopPropagation()}>
                                 <div className="flex flex-col items-center text-center">
                                     <div className="h-12 w-12 bg-red-100 rounded-full flex items-center justify-center mb-4 text-red-600"><Trash2 size={24} /></div>
                                     <h3 className="text-lg font-bold text-slate-900 mb-2">Clear Inventory?</h3>
@@ -782,8 +783,8 @@
                     )}
 
                     {showForm && (
-                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm no-print">
-                            <div className="bg-white rounded-2xl shadow-2xl w-full max-w-2xl max-h-[90vh] overflow-y-auto">
+                        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm no-print cursor-pointer" onClick={closeForm}>
+                            <div className="bg-white rounded-2xl shadow-2xl w-full max-w-2xl max-h-[90vh] overflow-y-auto cursor-default" onClick={e => e.stopPropagation()}>
                                 <div className="p-6 border-b border-slate-100 flex justify-between items-center sticky top-0 bg-white z-10">
                                     <h2 className="text-xl font-bold text-slate-800">{editingId ? 'Edit Filament' : 'Add New Filament'}</h2>
                                     <button onClick={closeForm} className="text-slate-400 hover:text-slate-600"><XCircle size={24} /></button>

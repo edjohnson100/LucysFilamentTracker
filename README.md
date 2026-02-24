@@ -3,9 +3,9 @@
 
 ![Filament Tracker Preview](resources/preview.png)
 
-### **Version: 1.6**
+### **Version: 1.7**
 
-### **Last Updated: 2026-02-22**
+### **Last Updated: 2026-02-23**
 
 ### **Developer: Ed Johnson (Making With An EdJ)**
 
@@ -74,6 +74,7 @@ If you want to build your own sheet or use an existing one:
 | **J** | Notes | Text (e.g., `Cardboard spool, needs adapter`) |
 | **K** | Partial Notes | Comma separated text (e.g., `Scrap, “Brittle, Dry First”`) - Order matches weights in Col G |
 | **L** | Ordered Rolls | Number (e.g., `2`) |
+| **M** | Location | Text (e.g., `Shelf 2, Bin A`) |
 
 **3. Install the "JSON Helper" Script** This script converts your rows into the JSON format the app expects, and vice-versa.
 
@@ -122,6 +123,14 @@ For the fellow coders and makers out there, here is how this was built:
 ![Large Screenshot](resources/large_screenshot.png)
 
 ## **Appendix: Changelog**
+
+### **[v1.7] — 2026-02-23**
+
+**Added**
+* **Location Tracking:** Added a dedicated "Storage Location" field to track exactly where each spool is stored (e.g., "Dry Box 1", "Shelf A").
+* **Location Search:** The deep search bar now indexes the Location field, allowing you to instantly find all rolls in a specific storage container.
+* **Card UI Update:** Added a subtle Map Pin icon and location text to the center of the filament card footer.
+* **Google Sheets Sync:** Expanded the integration to 13 columns to fully support the new Location metadata.
 
 ### **[v1.6] — 2026-02-22**
 
