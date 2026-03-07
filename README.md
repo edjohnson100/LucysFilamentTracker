@@ -117,6 +117,11 @@ For the fellow coders and makers out there, here is how this was built:
 
 ---
 
+## Support the Maker (and Lucy!)
+
+I develop these tools to improve my own parametric workflows and love sharing them with the community. If you find LiveUtilities useful and want to say thanks, feel free to **[buy Lucy a dog treat on Ko-fi](https://ko-fi.com/makingwithanedj)**! This is completely optional and supports my Chief Wellness Officer in maintaining mandatory play breaks. Your appreciation and feedback are more than enough.
+
+***
 *Happy Making!* *— EdJ*
 
 ## **Large Screenshot**
