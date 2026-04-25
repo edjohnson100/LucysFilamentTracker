@@ -60,3 +60,9 @@ Ignore actual inventory data files if you save them in the repo folder locally
 
 .env.*
 !.env.example
+
+----------------------
+
+6. Misc
+
+Archive/
